@@ -1,6 +1,12 @@
 import 'package:flutter/material.dart';
+import 'basic_widgets/fab_widget.dart';
+import 'basic_widgets/loading_cupertino.dart';
 import 'basic_widgets/text_widget.dart';
 import 'basic_widgets/image_widget.dart';
+import 'basic_widgets/scaffold_widget.dart';
+import 'basic_widgets/dialog_widget.dart';
+import 'basic_widgets/input_selection_widget.dart';
+import 'basic_widgets/date_time_pickers_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -33,7 +39,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: '2141720227 Arhan Windu Rizki Putra Budianto'),
     );
   }
 }
