@@ -36,10 +36,12 @@ Kembali ke VS code, project flutter hello_world, buka terminal pada menu Termina
 
 Langkah 4:
 Pilih menu Source Control di bagian kiri, lalu lakukan stages (+) pada file .gitignore untuk mengunggah file pertama ke repository GitHub.
+
 ![Screenshot hello_world](images/laporan_praktikum/8.jpg)
 
 Langkah 5:
 Beri pesan commit "tambah gitignore" lalu klik Commit (✔)
+
 ![Screenshot hello_world](images/laporan_praktikum/9.jpg)
 
 Langkah 6:
@@ -59,6 +61,7 @@ Setelah berhasil, tulis remote name dengan "origin"
 
 Langkah 9:
 Lakukan hal yang sama pada file README.md mulai dari Langkah 4. Setelah berhasil melakukan push, masukkan username GitHub Anda dan password berupa token yang telah dibuat (pengganti password konvensional ketika Anda login di browser GitHub). Reload halaman repository GitHub Anda, maka akan tampil hasil push kedua file tersebut seperti gambar berikut. Untuk file README.md: 
+
 ![Screenshot hello_world](images/laporan_praktikum/14.jpg)
 ![Screenshot hello_world](images/laporan_praktikum/15.jpg)
 
@@ -67,6 +70,7 @@ Hasil push kedua file tersebut di repo:
 
 Langkah 10:
 Lakukan push juga untuk semua file lainnya dengan pilih Stage All Changes. Beri pesan commit "project hello_world". Maka akan tampil di repository GitHub Anda seperti berikut.
+
 ![Screenshot hello_world](images/laporan_praktikum/17.jpg)
 ![Screenshot hello_world](images/laporan_praktikum/18.jpg)
 
