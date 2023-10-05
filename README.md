@@ -4,7 +4,7 @@ A new Flutter project.
 
 ![Screenshot hello_world](images/01.png)
 
-Praktikum 3: Menerapkan Widget Dasar
+<b>Praktikum 3: Menerapkan Widget Dasar<b>
 
 Langkah 1: Text Widget
 Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik kode program berikut ke project hello_world pada file text_widget.dart.
